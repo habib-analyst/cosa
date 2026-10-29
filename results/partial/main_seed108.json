@@ -1,0 +1,106 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 42,
+        "n": 42,
+        "violations": 28
+      },
+      "direct": {
+        "completed": 49,
+        "n": 49,
+        "violations": 28
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 10,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 13,
+        "n": 13,
+        "violations": 6
+      },
+      "rebind": {
+        "completed": 36,
+        "n": 36,
+        "violations": 21
+      }
+    },
+    "completion_rate": 93.33333333333333,
+    "n": 150,
+    "violation_rate": 55.333333333333336,
+    "violations": 83
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 42,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 49,
+        "n": 49,
+        "violations": 28
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 10,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 13,
+        "n": 13,
+        "violations": 6
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 36,
+        "violations": 0
+      }
+    },
+    "completion_rate": 41.333333333333336,
+    "n": 150,
+    "violation_rate": 22.666666666666664,
+    "violations": 34
+  },
+  "guarded": {
+    "blocked": 87,
+    "by_family": {
+      "bridge": {
+        "completed": 14,
+        "n": 42,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 21,
+        "n": 49,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 10,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 3,
+        "n": 13,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 15,
+        "n": 36,
+        "violations": 0
+      }
+    },
+    "completion_rate": 35.333333333333336,
+    "n": 150,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "main",
+  "seed": 108
+}

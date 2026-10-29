@@ -1,0 +1,142 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 45,
+        "n": 45,
+        "violations": 32
+      },
+      "direct": {
+        "completed": 47,
+        "n": 47,
+        "violations": 33
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 12,
+        "n": 12,
+        "violations": 9
+      },
+      "rebind": {
+        "completed": 62,
+        "n": 62,
+        "violations": 49
+      }
+    },
+    "completion_rate": 92.22222222222223,
+    "n": 180,
+    "violation_rate": 68.33333333333333,
+    "violations": 123
+  },
+  "benign_n": 43,
+  "benign_utility": {
+    "augmented": 100.0,
+    "clean": 39.53488372093023,
+    "guarded": 97.67441860465115
+  },
+  "benign_utility_loss_pp": {
+    "ci95": [
+      -0.0,
+      6.976744186046512
+    ],
+    "mean": 2.3255813953488373
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 45,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 47,
+        "n": 47,
+        "violations": 33
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 12,
+        "n": 12,
+        "violations": 9
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 62,
+        "violations": 0
+      }
+    },
+    "completion_rate": 32.77777777777778,
+    "n": 180,
+    "violation_rate": 23.333333333333332,
+    "violations": 42
+  },
+  "digest": "aeed292176d04c6b995d38775b3fd2615a65e8c42b9a2ec22584cc9eb85e2c84",
+  "disease_gap_pp": {
+    "ci95": [
+      37.77777777777778,
+      52.22222222222223
+    ],
+    "mean": 45.0
+  },
+  "guard_reduction_pp": {
+    "ci95": [
+      61.66666666666667,
+      75.0
+    ],
+    "mean": 68.33333333333333
+  },
+  "guarded": {
+    "blocked": 124,
+    "by_family": {
+      "bridge": {
+        "completed": 13,
+        "n": 45,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 14,
+        "n": 47,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 2,
+        "n": 12,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 13,
+        "n": 62,
+        "violations": 0
+      }
+    },
+    "completion_rate": 23.333333333333332,
+    "n": 180,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "pilot",
+  "nopath_violations": 0,
+  "seconds": 57.66,
+  "seeds": [
+    1,
+    2,
+    3
+  ],
+  "tasks_per_seed": 60,
+  "total_tasks": 180
+}

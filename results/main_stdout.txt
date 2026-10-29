@@ -1,0 +1,38 @@
+seed 101: clean=19.33% aug=51.33% guarded=0.00%
+seed 102: clean=22.67% aug=58.67% guarded=0.00%
+seed 103: clean=25.33% aug=52.67% guarded=0.00%
+seed 104: clean=26.00% aug=56.67% guarded=0.00%
+seed 105: clean=20.67% aug=60.00% guarded=0.00%
+seed 106: clean=20.00% aug=58.00% guarded=0.00%
+seed 107: clean=21.33% aug=55.33% guarded=0.00%
+seed 108: clean=22.67% aug=55.33% guarded=0.00%
+seed 109: clean=30.00% aug=59.33% guarded=0.00%
+seed 110: clean=24.00% aug=55.33% guarded=0.00%
+seed 111: clean=20.67% aug=50.00% guarded=0.00%
+seed 112: clean=25.33% aug=54.00% guarded=0.00%
+{
+  "total_tasks": 1800,
+  "disease_gap_pp": {
+    "mean": 32.388888888888886,
+    "ci95": [
+      30.277777777777775,
+      34.61111111111111
+    ]
+  },
+  "guard_reduction_pp": {
+    "mean": 55.55555555555556,
+    "ci95": [
+      53.22222222222223,
+      57.88888888888889
+    ]
+  },
+  "benign_utility_loss_pp": {
+    "mean": 3.9249146757679183,
+    "ci95": [
+      2.3890784982935154,
+      5.631399317406143
+    ]
+  },
+  "benign_n": 586,
+  "digest": "eddca343d3cca987ef016cacf11f61593de8c59abe92f1d8a15438bfc2fb82f3"
+}

@@ -1,0 +1,151 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 471,
+        "n": 471,
+        "violations": 286
+      },
+      "direct": {
+        "completed": 477,
+        "n": 477,
+        "violations": 307
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 192,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 202,
+        "n": 202,
+        "violations": 110
+      },
+      "rebind": {
+        "completed": 458,
+        "n": 458,
+        "violations": 297
+      }
+    },
+    "completion_rate": 89.33333333333333,
+    "n": 1800,
+    "violation_rate": 55.55555555555556,
+    "violations": 1000
+  },
+  "benign_n": 586,
+  "benign_utility": {
+    "augmented": 100.0,
+    "clean": 40.955631399317404,
+    "guarded": 96.07508532423208
+  },
+  "benign_utility_loss_pp": {
+    "ci95": [
+      2.3890784982935154,
+      5.631399317406143
+    ],
+    "mean": 3.9249146757679183
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 471,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 477,
+        "n": 477,
+        "violations": 307
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 192,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 202,
+        "n": 202,
+        "violations": 110
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 458,
+        "violations": 0
+      }
+    },
+    "completion_rate": 37.72222222222222,
+    "n": 1800,
+    "violation_rate": 23.166666666666664,
+    "violations": 417
+  },
+  "digest": "eddca343d3cca987ef016cacf11f61593de8c59abe92f1d8a15438bfc2fb82f3",
+  "disease_gap_pp": {
+    "ci95": [
+      30.277777777777775,
+      34.61111111111111
+    ],
+    "mean": 32.388888888888886
+  },
+  "guard_reduction_pp": {
+    "ci95": [
+      53.22222222222223,
+      57.88888888888889
+    ],
+    "mean": 55.55555555555556
+  },
+  "guarded": {
+    "blocked": 1045,
+    "by_family": {
+      "bridge": {
+        "completed": 185,
+        "n": 471,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 170,
+        "n": 477,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 192,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 47,
+        "n": 202,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 161,
+        "n": 458,
+        "violations": 0
+      }
+    },
+    "completion_rate": 31.277777777777775,
+    "n": 1800,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "main",
+  "nopath_violations": 0,
+  "seconds": 762.26,
+  "seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
+  ],
+  "tasks_per_seed": 150,
+  "total_tasks": 1800
+}

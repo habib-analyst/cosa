@@ -1,0 +1,106 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 37,
+        "n": 37,
+        "violations": 28
+      },
+      "direct": {
+        "completed": 38,
+        "n": 38,
+        "violations": 31
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 17,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 26,
+        "n": 26,
+        "violations": 14
+      },
+      "rebind": {
+        "completed": 32,
+        "n": 32,
+        "violations": 16
+      }
+    },
+    "completion_rate": 88.66666666666667,
+    "n": 150,
+    "violation_rate": 59.333333333333336,
+    "violations": 89
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 37,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 38,
+        "n": 38,
+        "violations": 31
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 17,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 26,
+        "n": 26,
+        "violations": 14
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 32,
+        "violations": 0
+      }
+    },
+    "completion_rate": 42.66666666666667,
+    "n": 150,
+    "violation_rate": 30.0,
+    "violations": 45
+  },
+  "guarded": {
+    "blocked": 92,
+    "by_family": {
+      "bridge": {
+        "completed": 9,
+        "n": 37,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 7,
+        "n": 38,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 17,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 9,
+        "n": 26,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 16,
+        "n": 32,
+        "violations": 0
+      }
+    },
+    "completion_rate": 27.333333333333332,
+    "n": 150,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "main",
+  "seed": 109
+}

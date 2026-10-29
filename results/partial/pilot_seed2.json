@@ -1,0 +1,106 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 15,
+        "n": 15,
+        "violations": 12
+      },
+      "direct": {
+        "completed": 18,
+        "n": 18,
+        "violations": 14
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 4,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 4,
+        "n": 4,
+        "violations": 3
+      },
+      "rebind": {
+        "completed": 19,
+        "n": 19,
+        "violations": 15
+      }
+    },
+    "completion_rate": 93.33333333333333,
+    "n": 60,
+    "violation_rate": 73.33333333333333,
+    "violations": 44
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 15,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 18,
+        "n": 18,
+        "violations": 14
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 4,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 4,
+        "n": 4,
+        "violations": 3
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 19,
+        "violations": 0
+      }
+    },
+    "completion_rate": 36.666666666666664,
+    "n": 60,
+    "violation_rate": 28.333333333333332,
+    "violations": 17
+  },
+  "guarded": {
+    "blocked": 44,
+    "by_family": {
+      "bridge": {
+        "completed": 3,
+        "n": 15,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 4,
+        "n": 18,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 4,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 1,
+        "n": 4,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 4,
+        "n": 19,
+        "violations": 0
+      }
+    },
+    "completion_rate": 20.0,
+    "n": 60,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "pilot",
+  "seed": 2
+}

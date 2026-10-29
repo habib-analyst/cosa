@@ -1,0 +1,106 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 37,
+        "n": 37,
+        "violations": 23
+      },
+      "direct": {
+        "completed": 41,
+        "n": 41,
+        "violations": 27
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 18,
+        "n": 18,
+        "violations": 9
+      },
+      "rebind": {
+        "completed": 40,
+        "n": 40,
+        "violations": 24
+      }
+    },
+    "completion_rate": 90.66666666666666,
+    "n": 150,
+    "violation_rate": 55.333333333333336,
+    "violations": 83
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 37,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 41,
+        "n": 41,
+        "violations": 27
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 18,
+        "n": 18,
+        "violations": 9
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 40,
+        "violations": 0
+      }
+    },
+    "completion_rate": 39.33333333333333,
+    "n": 150,
+    "violation_rate": 24.0,
+    "violations": 36
+  },
+  "guarded": {
+    "blocked": 88,
+    "by_family": {
+      "bridge": {
+        "completed": 14,
+        "n": 37,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 14,
+        "n": 41,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 4,
+        "n": 18,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 16,
+        "n": 40,
+        "violations": 0
+      }
+    },
+    "completion_rate": 32.0,
+    "n": 150,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "main",
+  "seed": 110
+}

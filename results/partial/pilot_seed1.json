@@ -1,0 +1,106 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 16,
+        "n": 16,
+        "violations": 12
+      },
+      "direct": {
+        "completed": 14,
+        "n": 14,
+        "violations": 10
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 3,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 4,
+        "n": 4,
+        "violations": 3
+      },
+      "rebind": {
+        "completed": 23,
+        "n": 23,
+        "violations": 19
+      }
+    },
+    "completion_rate": 95.0,
+    "n": 60,
+    "violation_rate": 73.33333333333333,
+    "violations": 44
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 16,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 14,
+        "n": 14,
+        "violations": 10
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 3,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 4,
+        "n": 4,
+        "violations": 3
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 23,
+        "violations": 0
+      }
+    },
+    "completion_rate": 30.0,
+    "n": 60,
+    "violation_rate": 21.666666666666668,
+    "violations": 13
+  },
+  "guarded": {
+    "blocked": 45,
+    "by_family": {
+      "bridge": {
+        "completed": 4,
+        "n": 16,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 4,
+        "n": 14,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 3,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 0,
+        "n": 4,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 4,
+        "n": 23,
+        "violations": 0
+      }
+    },
+    "completion_rate": 20.0,
+    "n": 60,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "pilot",
+  "seed": 1
+}

@@ -1,0 +1,106 @@
+{
+  "augmented": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 41,
+        "n": 41,
+        "violations": 20
+      },
+      "direct": {
+        "completed": 43,
+        "n": 43,
+        "violations": 29
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 15,
+        "n": 15,
+        "violations": 9
+      },
+      "rebind": {
+        "completed": 37,
+        "n": 37,
+        "violations": 23
+      }
+    },
+    "completion_rate": 90.66666666666666,
+    "n": 150,
+    "violation_rate": 54.0,
+    "violations": 81
+  },
+  "clean": {
+    "blocked": 0,
+    "by_family": {
+      "bridge": {
+        "completed": 0,
+        "n": 41,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 43,
+        "n": 43,
+        "violations": 29
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 15,
+        "n": 15,
+        "violations": 9
+      },
+      "rebind": {
+        "completed": 0,
+        "n": 37,
+        "violations": 0
+      }
+    },
+    "completion_rate": 38.666666666666664,
+    "n": 150,
+    "violation_rate": 25.333333333333336,
+    "violations": 38
+  },
+  "guarded": {
+    "blocked": 85,
+    "by_family": {
+      "bridge": {
+        "completed": 21,
+        "n": 41,
+        "violations": 0
+      },
+      "direct": {
+        "completed": 14,
+        "n": 43,
+        "violations": 0
+      },
+      "nopath": {
+        "completed": 0,
+        "n": 14,
+        "violations": 0
+      },
+      "opaque": {
+        "completed": 2,
+        "n": 15,
+        "violations": 0
+      },
+      "rebind": {
+        "completed": 14,
+        "n": 37,
+        "violations": 0
+      }
+    },
+    "completion_rate": 34.0,
+    "n": 150,
+    "violation_rate": 0.0,
+    "violations": 0
+  },
+  "mode": "main",
+  "seed": 112
+}
